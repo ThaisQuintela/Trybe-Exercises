@@ -8,8 +8,8 @@ Trybe is a school for people who want to wants to build a succesful career in te
 The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git and other languages and frameworks.
 
 <p align="center">
-    <a href="README.md"><img src="/.github/england flag.png" alt="English" height="50" /></a>
-    <a href="README-pt.md"><img src="/.github/brazil flag.png" alt="Português" height="50" /></a>
+    <a href="README.md"><img src=".gitignore/england flag.png" alt="English" height="50" /></a>
+    <a href="README-pt.md"><img src=".gitignore/brazil flag.png" alt="Português" height="50" /></a>
 </p>
 
 ## How to access the exercises
@@ -22,7 +22,7 @@ Then, you have to change branches according to the lecture you want to visit:
 ```git
 git checkout exercises/lecture_number
 ```
-The lecture number is displayed in the section Trybe Lectures as `lecture_number: content`.
+
 - :heavy_check_mark: - Completed
 - :closed_book: - Not started
 - :hourglass_flowing_sand: - Ongoing
