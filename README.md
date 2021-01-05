@@ -3,7 +3,7 @@ This repository have all the exercises developed by [Thais Quintela](https://www
 during Trybe's course. 
 
 ### [Trybe](https://www.betrybe.com/) :rocket:
-Trybe is a school for people who want to wants to build a succesful career in technology. The program counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
+Trybe is a school for people who wants to build a succesful career in technology. The program counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
 
 The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git and other languages and frameworks.
 
