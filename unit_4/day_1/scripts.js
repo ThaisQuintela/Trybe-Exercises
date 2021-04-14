@@ -189,6 +189,7 @@ else if (salario <= 4664,68) {
 else if (salario > 4664.68) {
     salarioLiquido = salario - ((salario * 0.275) - 869.36);
 }
+//Trybe
+const salarioFinal = salarioLiquido - (salarioBruto*0.17);
 
-console.log(salarioLiquido);
-console.log(salarioLiquido - (salarioBruto*0.17));
+console.log(salarioFinal);
