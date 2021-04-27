@@ -56,7 +56,7 @@ git checkout exercises/lecture_number
 - [X] 4.4: JavaScript - Objects and functions
 - [X] 4.5: [Project - Playground Functions](https://github.com/tryber/sd-08-project-playground-function/pull/52)
 
-##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :hourglass_flowing_sand:
+##### Unit 5: Introdução - JavaScript - DOM, Events and Web Storage :heavy_check_mark:
 
 - [X] 5.1: JavaScript - DOM and selectors
 - [X] 5.2: JavaScript - Working with elements
@@ -64,125 +64,125 @@ git checkout exercises/lecture_number
 - [X] 5.4: JavaScript - Web Storage
 - [X] 5.5: [Project - Art with Pixels](https://github.com/tryber/sd-08-project-pixels-art/pull/96)
 - [X] 5.6: [Project - Task List](https://github.com/tryber/sd-08-project-todo-list/pull/138)
-- [ ] 5.7: (Bonus) Project - Meme Generator
-- [ ] 5.7: (Bonus) Project - Gess the Color
-- [ ] 5.7: (Bonus) Project - Mysterious Letter
+- [X] 5.7: (Bonus) Project - Meme Generator
+- [X] 5.7: (Bonus) Project - Gess the Color
+- [X] 5.7: (Bonus) Project - Mysterious Letter
 
-##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :hourglass_flowing_sand:
+##### Unit 6: HTML & CSS - Forms, Flexbox and Responsive :heavy_check_mark:
 
-- [ ] 6.1: HTML & CSS - Forms
-- [ ] 6.2: JavaScript Libraries and CSS Frameworks
-- [ ] 6.3: CSS Flexbox - Part 1
-- [ ] 6.4: CSS Flexbox - Part 2
-- [ ] 6.5: CSS Responsive - Mobile First
+- [X] 6.1: HTML & CSS - Forms
+- [X] 6.2: JavaScript Libraries and CSS Frameworks
+- [X] 6.3: CSS Flexbox - Part 1
+- [X] 6.4: CSS Flexbox - Part 2
+- [X] 6.5: CSS Responsive - Mobile First
 - [X] 6.6: [Project - Facebook's Login Page](https://github.com/tryber/sd-08-project-facebook-signup/pull/8)
 
-##### Unit 7: JavaScript ES6 & Unit Tests :closed_book:
+##### Unit 7: JavaScript ES6 & Unit Tests :heavy_check_mark:
 
-- [ ] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2: JavaScript ES6 - Objects
-- [ ] 7.3: Unit tests in JavaScript
-- [ ] 7.4: Project - JavaScript Unit Tests
+- [X] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
+- [X] 7.2: JavaScript ES6 - Objects
+- [X] 7.3: Unit tests in JavaScript
+- [X] 7.4: Project - JavaScript Unit Tests
 
-##### Unit 8: JavaScript ES6 :closed_book:
+##### Unit 8: JavaScript ES6 :heavy_check_mark:
 
-- [ ] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
-- [ ] 8.3: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
-- [ ] 8.5: Project - Zoo functions
+- [X] 8.1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [X] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
+- [X] 8.3: JavaScript ES6 - Higher Order Functions - reduce
+- [X] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
+- [X] 8.5: Project - Zoo functions
 
-##### Unit 9: Asynchronicity & Callbacks :closed_book:
+##### Unit 9: Asynchronicity & Callbacks :heavy_check_mark:
 
-- [ ] 9.1: Asynchronous JavaScript and Callbacks
-- [ ] 9.2: JavaScript Promises
-- [ ] 9.3: Project - Shopping Cart
+- [X] 9.1: Asynchronous JavaScript and Callbacks
+- [X] 9.2: JavaScript Promises
+- [X] 9.3: Project - Shopping Cart
 
-##### Unit 10: Automated Tests with Jest :closed_book:
+##### Unit 10: Automated Tests with Jest :heavy_check_mark:
 
-- [ ] 10.1: First steps on Jest
-- [ ] 10.2: Jest - Asynchronous tests
-- [ ] 10.3: Jest - Simulating behaviors
-- [ ] 10.4: Project - Asynchronous Jest and Mocking
+- [X] 10.1: First steps on Jest
+- [X] 10.2: Jest - Asynchronous tests
+- [X] 10.3: Jest - Simulating behaviors
+- [X] 10.4: Project - Asynchronous Jest and Mocking
 
-## Front-end Development :closed_book:
+## Front-end Development :heavy_check_mark:
 
-##### Unit 11: Introduction to React :closed_book:
+##### Unit 11: Introduction to React :heavy_check_mark:
 
-- [ ] 11.1: 'Hello, world!' on React!
-- [ ] 11.2: React Components
-- [ ] 11.3: Project - Movie Cards Library
+- [X] 11.1: 'Hello, world!' on React!
+- [X] 11.2: React Components
+- [X] 11.3: Project - Movie Cards Library
 
-##### Unit 12: Componets with State, Events and Forms with React :closed_book:
+##### Unit 12: Componets with State, Events and Forms with React :heavy_check_mark:
 
-- [ ] 12.1: Components with states and events
-- [ ] 12.2: Forms on React
-- [ ] 12.3: Project - Movie Cards Library Stateful
+- [X] 12.1: Components with states and events
+- [X] 12.2: Forms on React
+- [X] 12.3: Project - Movie Cards Library Stateful
 
-##### Unit 13: Components Life Cycle and React Router :closed_book:
+##### Unit 13: Components Life Cycle and React Router :heavy_check_mark:
 
-- [ ] 13.1: Components Life Cycle on React
-- [ ] 13.2: React Router
-- [ ] 13.3: Project - Movie Cards Library CRUD
+- [X] 13.1: Components Life Cycle on React
+- [X] 13.2: React Router
+- [X] 13.3: Project - Movie Cards Library CRUD
 
-##### Unit 14: Agile Methodologies :closed_book:
+##### Unit 14: Agile Methodologies :heavy_check_mark:
 
-- [ ] 14.1: Agile Methodologies
-- [ ] 14.2: Project - Frontend Online Store
+- [X] 14.1: Agile Methodologies
+- [X] 14.2: Project - Frontend Online Store
 
-##### Unit 15: Automated Tests with React Testing Library :closed_book:
+##### Unit 15: Automated Tests with React Testing Library :heavy_check_mark:
 
-- [ ] 15.1: RTL - First steps
-- [ ] 15.2: RTL - Mocks and Inputs
-- [ ] 15.3: RTL - Testing React Router
-- [ ] 15.4: Project - Tests on React
+- [X] 15.1: RTL - First steps
+- [X] 15.2: RTL - Mocks and Inputs
+- [X] 15.3: RTL - Testing React Router
+- [X] 15.4: Project - Tests on React
 
-##### Unit 16: State Management with Redux :closed_book:
+##### Unit 16: State Management with Redux :heavy_check_mark:
 
-- [ ] 16.1: Introduction to Redux
-- [ ] 16.2: React with Redux - Part 1
-- [ ] 16.3: React with Redux - Pratice
-- [ ] 16.4: React with Redux - Part 2
-- [ ] 16.5: Synchronous tests with React-Redux
-- [ ] 16.6: Project - Table with data filters
+- [X] 16.1: Introduction to Redux
+- [X] 16.2: React with Redux - Part 1
+- [X] 16.3: React with Redux - Pratice
+- [X] 16.4: React with Redux - Part 2
+- [X] 16.5: Synchronous tests with React-Redux
+- [X] 16.6: Project - Table with data filters
 
-##### Unit 17: Project Trivia Game :closed_book:
+##### Unit 17: Project Trivia Game :heavy_check_mark:
 
-- [ ] 17.1: Project Trivia Game
+- [X] 17.1: Project Trivia Game
 
-##### Unit 18: React Hooks & Context API :closed_book:
+##### Unit 18: React Hooks & Context API :heavy_check_mark:
 
-- [ ] 18.1: React's Context API
-- [ ] 18.2: React Hooks - useState and useContext
-- [ ] 18.3: React Hooks - useEffect and customized Hooks
-- [ ] 18.4: Project - StarWars Datatable with Context API and Hooks
+- [X] 18.1: React's Context API
+- [X] 18.2: React Hooks - useState and useContext
+- [X] 18.3: React Hooks - useEffect and customized Hooks
+- [X] 18.4: Project - StarWars Datatable with Context API and Hooks
 
-##### Unit 19: Final Project - Recipes App :closed_book:
+##### Unit 19: Final Project - Recipes App :heavy_check_mark:
 
-- [ ] 19.1: Project - Recipes App
+- [X] 19.1: Project - Recipes App
 
  ## Back-end Development :closed_book:
 
-##### Unit 20: Introduction to SQL :closed_book:
+##### Unit 20: Introduction to SQL :heavy_check_mark:
 
-- [ ] 20.1: Database SQL
-- [ ] 20.2: Finding data in a database
-- [ ] 20.3: Filtering data specifically
-- [ ] 20.4: Handliing tables
-- [ ] 20.5: Project - All For One
+- [X] 20.1: Database SQL
+- [X] 20.2: Finding data in a database
+- [X] 20.3: Filtering data specifically
+- [X] 20.4: Handliing tables
+- [X] 20.5: Project - All For One
 
-##### Unit 21: SQL Functions, Joins and Subqueries :closed_book:
+##### Unit 21: SQL Functions, Joins and Subqueries :heavy_check_mark:
 
-- [ ] 21.1: Most used SQL Functions
-- [ ] 21.2: Simplifying JOINs and UNIONs
-- [ ] 21.3: Stored Routines & Subqueries
-- [ ] 21.4: Project - Vocabulary Booster
+- [X] 21.1: Most used SQL Functions
+- [X] 21.2: Simplifying JOINs and UNIONs
+- [X] 21.3: Stored Routines & Subqueries
+- [X] 21.4: Project - Vocabulary Booster
 
-##### Unit 22: Database Normalization and Modeling :closed_book:
+##### Unit 22: Database Normalization and Modeling :hourglass_flowing_sand:
 
-- [ ] 22.1: Transforming ideas into a database model
-- [ ] 22.2: Normalization, Normal Forms and Dumps
-- [ ] 22.2: Transforming ideas into a database model - Part 2
+- [X] 22.1: Transforming ideas into a database model
+- [X] 22.2: Normalization, Normal Forms and Dumps
+- [X] 22.2: Transforming ideas into a database model - Part 2
 - [ ] 22.3: Project - One For All
 
 ##### Unit 23: Introdution to MongoDB :closed_book:
