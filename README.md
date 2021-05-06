@@ -178,20 +178,20 @@ git checkout exercises/lecture_number
 - [X] 21.3: Stored Routines & Subqueries
 - [X] 21.4: Project - Vocabulary Booster
 
-##### Unit 22: Database Normalization and Modeling :hourglass_flowing_sand:
+##### Unit 22: Database Normalization and Modeling :heavy_check_mark:
 
 - [X] 22.1: Transforming ideas into a database model
 - [X] 22.2: Normalization, Normal Forms and Dumps
 - [X] 22.2: Transforming ideas into a database model - Part 2
-- [ ] 22.3: Project - One For All
+- [X] 22.3: Project - One For All
 
-##### Unit 23: Introdution to MongoDB :closed_book:
+##### Unit 23: Introdution to MongoDB :heavy_check_mark:
 
-- [ ] 23.1: MongoDB - Introduction
-- [ ] 23.2: Filter Operators
+- [X] 23.1: MongoDB - Introduction
+- [X] 23.2: Filter Operators
 - [ ] 23.3: Project - Data Flights
 
-##### Unit 24: MongoDB: Simple and Complex Updates :closed_book:
+##### Unit 24: MongoDB: Simple and Complex Updates :hourglass_flowing_sand:
 
 - [ ] 24.1: Simple Updates 
 - [ ] 24.2: Complex Updates - Arrays - Part 1
