@@ -189,35 +189,35 @@ git checkout exercises/lecture_number
 
 - [X] 23.1: MongoDB - Introduction
 - [X] 23.2: Filter Operators
-- [ ] 23.3: Project - Data Flights
+- [X] 23.3: Project - Data Flights
 
 ##### Unit 24: MongoDB: Simple and Complex Updates :hourglass_flowing_sand:
 
-- [ ] 24.1: Simple Updates 
-- [ ] 24.2: Complex Updates - Arrays - Part 1
-- [ ] 24.3: Complex Updates - Arrays - Part 2
-- [ ] 24.4: Project - Commerce
+- [X] 24.1: Simple Updates 
+- [X] 24.2: Complex Updates - Arrays - Part 1
+- [X] 24.3: Complex Updates - Arrays - Part 2
+- [X] 24.4: Project - Commerce
 
 ##### Unit 25: Aggregation Framework :closed_book:
 
-- [ ] 25.1: Aggregation Framework - Part 1
-- [ ] 25.2: Aggregation Framework - Part 2
-- [ ] 25.3: Project - Aggregations
+- [X] 25.1: Aggregation Framework - Part 1
+- [X] 25.2: Aggregation Framework - Part 2
+- [X] 25.3: Project - Aggregations
 
 ##### Unit 26: Introduction to Web Development with NodeJS :closed_book:
 
-- [ ] 26.1: NodeJS - Introdution
-- [ ] 26.2: NodeJS - Asynchronous Flux
-- [ ] 26.3: NodeJS - Architecture
-- [ ] 26.4: Express: HTTP with Node.js
-- [ ] 26.5: Practicing Express
-- [ ] 26.6: Software Architecture - Introduction to MVC
-- [ ] 26.7: Project - Cookmaster
+- [X] 26.1: NodeJS - Introdution
+- [X] 26.2: NodeJS - Asynchronous Flux
+- [X] 26.3: NodeJS - Architecture
+- [X] 26.4: Express: HTTP with Node.js
+- [X] 26.5: Practicing Express
+- [X] 26.6: Software Architecture - Introduction to MVC
+- [X] 26.7: Project - Cookmaster
 
 ##### Unit 27: NodeJS: Service Layer and Rest and Restful Architecture :closed_book:
 
-- [ ] 27.1: Software Architecture - Sevice Layer
-- [ ] 27.2: Web Architecture - Rest and Restful
+- [X] 27.1: Software Architecture - Sevice Layer
+- [X] 27.2: Web Architecture - Rest and Restful
 - [ ] 27.3: Project - Store Manager
 
 ##### Unit 28: Files Authentication and Upload :closed_book:
