@@ -17,6 +17,16 @@ app.get('/books', async (req, res) => {
   const books = author_id ? await Books.getByAuthorId(author_id) : await Books.getAll();
 
   res.status(200).json(books);
+});
+
+app.get('/books/:id', async (req, res) => {
+  const { id } = req.params;
+
+  const book = await Books.getById(id);
+  
+  if (!book) return res.status(404).json({ message: 'Not found' });
+
+  res.status(200).json(book);
 })
 
-app.listen(port, () => console.log(`Example app listening on port port!`))
+app.listen(port, () => console.log(`Example app listening on port ${port}!`))

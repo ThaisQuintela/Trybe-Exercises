@@ -13,9 +13,20 @@ const getByAuthorId = async (authorId) => {
     [authorId],
   );
   return booksByAuthorId;
-}
+};
+
+const getById = async (id) => {
+  const [bookById] = await connection.execute(
+    'SELECT * FROM model_example.books WHERE id=?;',
+    [id],
+  );
+  if (bookById.length === 0) return null;
+
+  return bookById;
+};
 
 module.exports = {
   getAll,
   getByAuthorId,
+  getById,
 };
