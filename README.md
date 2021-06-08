@@ -191,20 +191,20 @@ git checkout exercises/lecture_number
 - [X] 23.2: Filter Operators
 - [X] 23.3: Project - Data Flights
 
-##### Unit 24: MongoDB: Simple and Complex Updates :hourglass_flowing_sand:
+##### Unit 24: MongoDB: Simple and Complex Updates :heavy_check_mark:
 
 - [X] 24.1: Simple Updates 
 - [X] 24.2: Complex Updates - Arrays - Part 1
 - [X] 24.3: Complex Updates - Arrays - Part 2
 - [X] 24.4: Project - Commerce
 
-##### Unit 25: Aggregation Framework :closed_book:
+##### Unit 25: Aggregation Framework :heavy_check_mark:
 
 - [X] 25.1: Aggregation Framework - Part 1
 - [X] 25.2: Aggregation Framework - Part 2
 - [X] 25.3: Project - Aggregations
 
-##### Unit 26: Introduction to Web Development with NodeJS :closed_book:
+##### Unit 26: Introduction to Web Development with NodeJS :heavy_check_mark:
 
 - [X] 26.1: NodeJS - Introdution
 - [X] 26.2: NodeJS - Asynchronous Flux
@@ -214,7 +214,7 @@ git checkout exercises/lecture_number
 - [X] 26.6: Software Architecture - Introduction to MVC
 - [X] 26.7: Project - Cookmaster
 
-##### Unit 27: NodeJS: Service Layer and Rest and Restful Architecture :closed_book:
+##### Unit 27: NodeJS: Service Layer and Rest and Restful Architecture :hourglass_flowing_sand:
 
 - [X] 27.1: Software Architecture - Sevice Layer
 - [X] 27.2: Web Architecture - Rest and Restful
